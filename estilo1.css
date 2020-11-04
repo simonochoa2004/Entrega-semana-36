@@ -1,0 +1,38 @@
+
+.bp{
+	  display: inline-block;
+  border-radius: 4px;
+  background-color: green;
+  border: none;
+  color: yellow;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 400px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+
+}
+
+.bp:hover {
+  	  display: inline-block;
+  border-radius: 4px;
+  background-color: #7F1806;
+  border: none;
+  color: blue;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 400px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+
+}
+
+
+.ani1{
+
+  left: 200px;
+}
